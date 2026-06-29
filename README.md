@@ -13,3 +13,5 @@
 - **`.terraformrc` и `terraform.rc`** — конфигурационные файлы CLI Terraform
 - **`.terraform.tfstate.lock.info`** — временный файл блокировки состояния
 Fix branch changes
+
+test визуального редактора vs code
